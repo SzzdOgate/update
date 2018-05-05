@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="http://fo03.szzdcdn.tv/_site_24_0_jjj.furamubhmuratqnb.bet/boss/css/bootstrap.css">
+  
 本页固定网址： https://git.io/szzd
 
 SzzdOgate（神州正道·网门for Android)
@@ -134,3 +139,5 @@ FB738FA230D51E149552BCB7FA5290A7887F72BC72425DAA0496204BD67A781DFC3E53E8488D6D8A
 
 
 ios版开发中。
+
+</html>

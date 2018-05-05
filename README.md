@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="http://fo03.szzdcdn.tv/_site_24_0_jjj.furamubhmuratqnb.bet/boss/css/bootstrap.css">
+<link rel="stylesheet" href="http://fo03.szzdcdn.tv/_site_24_0_jjj.furamubhmuratqnb.bet/boss/css/bootstrap.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   
 本页固定网址： https://git.io/szzd
 

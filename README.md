@@ -44,7 +44,9 @@ sha512校验及更新说明：
 https://github.com/SzzdOgate/update
 
 https://github.com/SzzdOgate/update/blob/master/extras/update.json
+
 TV版：
+
 https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json
 
 

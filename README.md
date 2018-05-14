@@ -33,10 +33,10 @@ App能够检测到新版本并提示，确认后自动后台下载并校验，�
 
 [b]一、目前最新的版本在这里（2018041701）（请破网访问）[/b]：
 
-SzzdOgate V3.7  for 安卓4.0+（手机版）：
+SzzdOgate V3.8  for 安卓4.0+（手机版）：
 https://git.io/vQjqe
 
-TV V1.0 for 安卓4.1+（电视机顶盒版）：
+TV V1.1 for 安卓4.1+（电视机顶盒版）：
 https://git.io/vAonz
 
 sha512校验及更新说明：

@@ -1,7 +1,7 @@
 {
   "appname": "SzzdOgate",
-  "version": "3.8.2018051301",
-  "size": "3823687",
-  "sha512": "19CD85745E1FC968ACD253FC73D2E0DA29533ADA1BFBC0A45E668A086426933708269BBC62DDE9BC0D5494D651072093352E83D83D919E60394B25E6B5BBF404",
-  "updateinfo": "<br><br>更新内容(2018-5-13)：<br>1、增强突破封锁能力；<br>2、修复已知BUG，完善程序。<br><br>TV版：<br>已同步更新。"
+  "version": "3.8.2018051901",
+  "size": "3825234",
+  "sha512": "DADFB10CCB5DC5236015A5EF8AF514D92F32793E8F87CC2404FF80A6227219BF0B2F62FF33AE2A9B10E7A4A7B2B2A02D5211A7F056C2E5199E6565C1567E763F",
+  "updateinfo": "<br><br>更新内容(2018-5-19)：<br>1、增强突破封锁能力；<br>2、设置里添加“开启网页界面下拉刷新功能”，方便大家根据实际情况选择；<br>3、完善程序自动升级功能；<br>4、修复已知BUG，完善程序。<br><br>TV版：<br>已同步更新。"
 }

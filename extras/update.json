@@ -1,7 +1,7 @@
 {
   "appname": "SzzdOgate",
-  "version": "3.8.2018060101",
-  "size": "3831158",
-  "sha512": "9F6624838055F4F72ECE829C4C039008CFE12901F39E3F5AD644BF447C6F7D094288DB07653DAFE15AABB6366EC10D8E610B51DB317387CA2ECB0006AB90D790",
-  "updateinfo": "<br><br>更新内容(2018-6-1)：<br>1、增强突破封锁能力；<br>2、修复已知BUG，完善程序。<br><br>TV版：<br>已同步更新。"
+  "version": "3.9.2018061001",
+  "size": "3921181",
+  "sha512": "5E6EE436539C55F1B180ABFE2B207F5AD660311512C52464EEE3D674CB842E12C055D7E5B7A97CE06C2AA500404281CED71F3A79C76F29D129DA83C3A86A6402",
+  "updateinfo": "<br><br>更新内容(2018-6-10)：<br>1、增强突破封锁能力；<br>2、添加网页内视频支持全屏播放的功能（在网页加载完成才能正常使用）；<br>2、修复已知BUG，完善程序。<br><br>TV版：<br>已同步更新。"
 }

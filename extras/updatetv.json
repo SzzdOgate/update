@@ -1,7 +1,7 @@
 {
   "appname": "SzzdOgateTV",
-  "version": "1.1.2018060101",
-  "size": "3293902",
-  "sha512": "8C3A375AB4930C007E93AC60FBFD8568A2EA9759E51621BDF1A7DFD44B497D6012A13D1DEB544C3A0152B71B2909DF130C81B857D4E346B834ABFB1170B40810",
-  "updateinfo": "<br><br>更新内容(2018-6-1)：<br>1、增强突破封锁能力；<br>2、增加“我要三退”功能，用户可实时向大纪元退党网站提交三退，以及使用查询密码（一般在提交三退信息后的1至2天后）查询三退结果；<br>3、修复已知BUG，完善程序。"
+  "version": "1.2.2018061001",
+  "size": "3375446",
+  "sha512": "E49BB84AC2FE16B1A3B94CC6BB03A42679A62F52AFB4BBE83108FC53FC83602E4ACD2E541C8384C38EE1284A0D826081860DA1F6A5E4B6FFCDD68D3BAE8F9ED6",
+  "updateinfo": "<br><br>更新内容(2018-6-10)：<br>1、增强突破封锁能力；<br>2、修复已知BUG，完善程序。"
 }

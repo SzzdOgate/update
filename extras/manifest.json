@@ -6,7 +6,7 @@
     "background_color": "#000000",
     "theme_color": "#001563",
     "icons": [{
-      "src": "icon-256.png",
+      "src": "https://raw.githubusercontent.com/SzzdOgate/update/master/extras/Icon-256.png",
       "sizes": "256x256",
       "type": "image/png"
     }]

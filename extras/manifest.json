@@ -1,0 +1,13 @@
+{
+    "name": "神州正道广传平台",
+    "short_name": "广传",
+    "description": "神州正道广传平台",
+    "start_url": "/",
+    "background_color": "#000000",
+    "theme_color": "#001563",
+    "icons": [{
+      "src": "icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }]
+  }

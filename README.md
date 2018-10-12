@@ -56,13 +56,18 @@ https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json
 更新内容(2018-10-10)：
 SzzdOgate（3.9.2018090307）：
 1、修正安全问题；
+
 2、二维码功能加上检查功能，保证分享的二维码于当下是可以正常使用的；
+
 3、修复已知BUG，完善程序。
 
 更新内容(2018-5-19)：
 SzzdOgateTV（1.1.2018051901）：
+
 1、增强突破封锁能力；
+
 2、完善程序自动升级功能；
+
 3、修复已知BUG，完善程序。
 
 [code]0B75814728EFCAC009381B097899A0B2AAAEE95B1E26DE008944DB403A991204F6A926464F6DFC6C1640734B52D38EA8DB07693A78733FFA11405F31E999E0A0  SzzdOgate.apk

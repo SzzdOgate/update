@@ -1,4 +1,4 @@
-![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/Icon-256.png)
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/Icon-256.jpg)
 # 神州明见官网及固定二维码
   
 本页固定网址: https://git.io/szzd  
@@ -6,51 +6,61 @@
 
 ![N|Solid](https://camo.githubusercontent.com/b6a72fa4fcd9f10c963eca49c1b5c204bf7f0063/687474703a2f2f7777772e737a7a642e6f72672f762e7068703f636f64653d6130363331646431333662393263323232383663613361613432343232366536343935373234303066343661316162636238316339333366393234653964656631343463323139356262623964346135356563383062636263663035376336316430)
 
-https://git.io/szzd  需要用国外的浏览器如火狐、Google Chrome打开，国内的浏览器打如果不开，是因为中共对国产软件暗中偷偷控制和封锁导致。二维码扫描方法是： 
-■打开国外的浏览器如火狐、Google Chrome
-■在地址栏输入利用 Webcam 在线扫描二维码的网页，如：http://qrcodescan.in/
-■授予后摄像头权限，扫描二维码
+https://git.io/szzd  
+■ 需要用国外的浏览器如火狐、Google Chrome打开，国内的浏览器打如果不开，是因为中共对国产软件暗中偷偷控制和封锁导致。
+
+二维码扫描方法是： 
+
+■ 打开国外的浏览器如火狐、Google Chrome
+
+■ 在地址栏输入利用 Webcam 在线扫描二维码的网页，如：http://qrcodescan.in/
+
+■ 授予后摄像头权限，扫描二维码
+
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 # 神州明见（SzzdOgate）
 
 ## 一、程序功能简介
 
-通过“神州明见”突破网络封锁工具，可以随时浏览海外网站、查看真实的时事新闻、观看各种视频等。目的是帮助世人安全、稳定的突破网络封锁、了解真相。
+### 通过“神州明见”突破网络封锁工具，可以随时浏览海外网站、查看真实的时事新闻、观看各种视频等。目的是帮助世人安全、稳定的突破网络封锁、了解真相。
 
-“神州明见”后台使用了动态的防止网络封锁的技术，具良好的抗封锁能力，这在多年的反馈中也得到了验证。目前是世界上仅有的几种，能够有效突破网络封锁的工具之一。
+### “神州明见”后台使用了动态的防止网络封锁的技术，具良好的抗封锁能力，这在多年的反馈中也得到了验证。目前是世界上仅有的几种，能够有效突破网络封锁的工具之一。
 
-截至2020年7月20日，通过突破网络封锁的方法，中国大陆已有近4亿人，在海外大纪元网站发表退出中共党、团、队的声明。
+### 截至2020年7月20日，通过突破网络封锁的方法，中国大陆已有近4亿人，在海外大纪元网站发表退出中共党、团、队的声明。
 
-“神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
+### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
 
 ## 二、“神州明见”程序下载
 ### 目前最新的版本在这里（20190106）（请翻墙访问）：
-1、SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
-https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
+### 1、SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
+### https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
 
-最新改包名测试版下载网址：
-http://www.szzd.org/FYMXJ
-(此网址需要翻墙下载)
+### 最新改包名测试版下载网址：
+### http://www.szzd.org/FYMXJ
+### (此网址需要翻墙下载)
   
-2、SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
-https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk
+### 2、SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
+### https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk
 
-最新改包名测试版下载网址：
-http://www.szzd.org/CLZDc
-(此网址需要翻墙下载)
+### 最新改包名测试版下载网址：
+### http://www.szzd.org/CLZDc
+### (此网址需要翻墙下载)
 
-3、SzzdOgate WEB5.0 （html WEB网页版，下载方法见下方介绍）
-https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
+### 3、SzzdOgate WEB5.0 （html WEB网页版，下载方法见下方介绍）(桌机对着此网址右键下载。手机对着连结长按，下载连结)
+### https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
 
 
 ![N|Solid](https://camo.githubusercontent.com/407103a4313c90bf549ef0cdb7e2ba363c3b4c51/687474703a2f2f7777772e737a7a642e6f72672f762e7068703f636f64653d3833393136623966353831363435383334393837323761623564353264393634336539666331343831653631666437626531336532613830646136346665376232363133646536636638656535336431626664383736653362313734373963323463343263636630613136353030373030613938)
 
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+
 ## 三、“神州明见”使用方法
-“神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版，3个版本，是基于集浏览、保存、截屏和分享的工具集合。
+### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版，3个版本，是基于集浏览、保存、截屏和分享的工具集合。
 ### （一）、“神州明见”安卓手机版使用方法 
-#### 1、安装和使用
-下载apk安装文件到手机中，安装后即可使用，简单快捷。
-#### 2、对浏览的网页
+### 1、安装和使用
+### 下载apk安装文件到手机中，安装后即可使用，简单快捷。
+### 2、对浏览的网页
 ■ 可以截屏、剪切、分享 
 保存的方式是按文章名为目录保存和管理，一般在内置卡目录下，在“神州明见\图片分享\”目录下。 
 截屏过程中可以对当时的截屏图片進行保存，以确保要分享的图片内容合理。
@@ -81,7 +91,7 @@ App能够检测到新版本并提示，确认后自动后台下载并校验，�
 #### 1、适合的设备
 “神州明见”网页版适合于Apple苹果设备中使用，如苹果手机、IPad、Mac等，但是在安卓手机和电脑中也可以正常使用。
 #### 2、安装和使用
-■ 进入此网址
+■ 桌机对着此网址右键下载。手机对着连结长按，下载连结
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
 
 ■ 把此网页保存为html网页文件。（或者复制该网页中的所有代码，在手机或电脑中新建一个文本文件，把代码复制到里面，然后保存为html网页文件）
@@ -95,6 +105,8 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.
 大纪元退党网二维码：
 
 ![N|Solid](https://camo.githubusercontent.com/fe565c3a654a580a8670569cd315a9c4d3c6e3ce/687474703a2f2f7777772e737a7a642e6f72672f762e7068703f636f64653d35613037393438346639356437623936386432633538386638366237613766643932326264333634633931303766653562663166633830343235383862616564333064356437623762663230633164323536656137383033383061386166)
+
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 四、“神州明见”SHA512校验及更新说明 
 #### 1、SHA512校验码
@@ -182,82 +194,82 @@ E07C0594B52D584141735888314C604A109FABDE55B6252CEA8904CE04349934EA8F238A728F26B9
 
 BCA69EFEDDFF35E0AC796ED16AF38F3FB041C4297B7F18CFCD1F6A66ED415FD426E37BCE1F61BCEE463C579609FA6906985EFDB5D003FAAF9406AEBECD6C4310  uber-apk-signer.jar
 
-#### 3、“包名修改器”程序功能
+### 3、“包名修改器”程序功能
 
-中共的封锁和洗脑不止体现在网络上，而是体现在各个角落，包括手机和电视机顶盒等硬件设施。所以大陆出厂的手机或电视机顶盒，可能存在无法安装“神州明见”的情况。“包名修改器”是解决这种情况的一个有效方法。
+### 中共的封锁和洗脑不止体现在网络上，而是体现在各个角落，包括手机和电视机顶盒等硬件设施。所以大陆出厂的手机或电视机顶盒，可能存在无法安装“神州明见”的情况。“包名修改器”是解决这种情况的一个有效方法。
 
-主要配套SzzdOgateTV（神州明见电视版）使用，考虑使用安全性以及不被中共邪党控制的系统删除，修改SzzdOgateTV包名及程序名称来解决这个问题是一个有效的方法。
+### 主要配套SzzdOgateTV（神州明见电视版）使用，考虑使用安全性以及不被中共邪党控制的系统删除，修改SzzdOgateTV包名及程序名称来解决这个问题是一个有效的方法。
 
-此程序也适用于SzzdOgate（神州明见手机版）等程序的包名修改，但不适合无界一点通等破网工具的修改。
+### 此程序也适用于SzzdOgate（神州明见手机版）等程序的包名修改，但不适合无界一点通等破网工具的修改。
 
-#### 4、使用“包名修改器”需要做的准备
-■ 使用环境：Windows的电脑或平板。
+### 4、使用“包名修改器”需要做的准备
+### ■ 使用环境：Windows的电脑或平板。
 
-■ 需要安装Java的JRE，程序会提示，事先装好最好。
+### ■ 需要安装Java的JRE，程序会提示，事先装好最好。
 
-下载地址：
-https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-（1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
-（2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
-64位或32位的系统，根据实际情况下载安装。
-切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
+### 下载地址：
+### https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+### （1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
+### （2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
+### 64位或32位的系统，根据实际情况下载安装。
+### 切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
 
-■ 需要安装NetFrameWork4.5.2
-下载地址：
-https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
+### ■ 需要安装NetFrameWork4.5.2
+### 下载地址：
+### https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
-#### 5、“包名修改器”使用方法
-■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)
+### 5、“包名修改器”使用方法
+### ■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)
 
-■ 在解压缩后的目录中中执行ApkRepackager.exe程序
+### ■ 在解压缩后的目录中中执行ApkRepackager.exe程序
 
-■ 点击程序主界面右下角的按钮开始改包名，等待约1分钟
+### ■ 点击程序主界面右下角的按钮开始改包名，等待约1分钟
 
-■ 改包名完成后，可在解压缩后的目录中找到已经修改包名的新APP程序(如果修改包名失败，可从程序主界面的log查看原因，可把log贴到论坛上便于修正)
+### ■ 改包名完成后，可在解压缩后的目录中找到已经修改包名的新APP程序(如果修改包名失败，可从程序主界面的log查看原因，可把log贴到论坛上便于修正)
 
-#### 6、“包名修改器”其他注意事项
-■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
-keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
+### 6、“包名修改器”其他注意事项
+### ■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
+### keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
 
-密码需要是1qaz2wsx
+### 密码需要是1qaz2wsx
 
-如果密码和上面不同，改包过程中，App签名时会失败。
+### 如果密码和上面不同，改包过程中，App签名时会失败。
 
-虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
+### 虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
 
-注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可以的。
+### 注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可以的。
 
-■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
+### ■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
 
-■ 有时中文路径有可能导致出错，如果放在网络映射的磁盘中执行，也可能路径出错。如果出错，请把文件夹改成英文名，一般放在C盘或D盘执行。
+### ■ 有时中文路径有可能导致出错，如果放在网络映射的磁盘中执行，也可能路径出错。如果出错，请把文件夹改成英文名，一般放在C盘或D盘执行。
 
-更详细的使用方法请参照天地行论坛。
+### 更详细的使用方法请参照天地行论坛。
 
 ### （二）二维码小助手
-#### 1、“二维码小助手”下载地址
-2020年6月1.3版本
+### 1、“二维码小助手”下载地址
+### 2020年6月1.3版本
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Release-2020062702.zip.txt
 
-下载后修改文件扩展名，去掉文件名后面的“.txt”。
-#### 2、“二维码小助手”SHA512校验码
+### 下载后修改文件扩展名，去掉文件名后面的“.txt”。
+### 2、“二维码小助手”SHA512校验码
 4CE662A4BA27B2800A2A698E0B72088A112881EFC77B3DCC0350D087D7F5F927369B6F5B2CF500E2EE63B849C5BA66C9A6EBE259F3500B3555703B80057C7AC9
-#### 3、“二维码小助手”程序功能
-二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
+### 3、“二维码小助手”程序功能
+### 二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
 ## 六、其它突破网络封锁的工具推荐 
 ### “网门”突破网络封锁工具
-#### 1、“网门”介绍
-“网门”是另一款有效的突破网络封锁工具之一。有安卓手机版和Windows电脑版，2个版本。
-#### 2、“网门”下载地址
-■ 安卓手机版下载网址：
-https://x.co/ogatea
+### 1、“网门”介绍
+### “网门”是另一款有效的突破网络封锁工具之一。有安卓手机版和Windows电脑版，2个版本。
+### 2、“网门”下载地址
+### ■ 安卓手机版下载网址：
+### https://x.co/ogatea
 
-■ Windows电脑版下载网址：
-https://x.co/ogatew
-#### 3、SHA512校验码
-“网门”安卓手机版
+### ■ Windows电脑版下载网址：
+### https://x.co/ogatew
+### 3、SHA512校验码
+### “网门”安卓手机版
 B1E185D185ACA4CDD31F4A48A886A2E27E71E7A24E364A0163B4388CF9E9D18B254B84F3D8E602442BBAC5334195296D5A5735C840E7C4D3BBCA1D7C00B9DFDC  oGatea.apk
 
-“网门”Windows电脑版
+### “网门”Windows电脑版
 3A16ACE08F25E3A59B2E96B4E0A39B7D975D45036C4B1D6B28BB86CA3C90025AD5992BCDDE5894807304F1255D645BF9DCE45006242C459CF3193AAA63069C99  oGate.exe
-#### 4、“网门”使用范围
-本站点提供的翻墙工具，仅供世人突破网络封锁，了解真相使用，严禁用于其它用途。否则，请到大纪元网站下载自由门或无界翻墙工具，详细请到天地行论坛查看。
+### 4、“网门”使用范围
+### 本站点提供的翻墙工具，仅供世人突破网络封锁，了解真相使用，严禁用于其它用途。否则，请到大纪元网站下载自由门或无界翻墙工具，详细请到天地行论坛查看。

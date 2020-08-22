@@ -23,32 +23,32 @@ https://git.io/szzd
 
 ## 一、程序功能简介
 
-### 通过“神州明见”突破网络封锁工具，可以随时浏览海外网站、查看真实的时事新闻、观看各种视频等。目的是帮助世人安全、稳定的突破网络封锁、了解真相。
+#### 通过“神州明见”突破网络封锁工具，可以随时浏览海外网站、查看真实的时事新闻、观看各种视频等。目的是帮助世人安全、稳定的突破网络封锁、了解真相。
 
-### “神州明见”后台使用了动态的防止网络封锁的技术，具良好的抗封锁能力，这在多年的反馈中也得到了验证。目前是世界上仅有的几种，能够有效突破网络封锁的工具之一。
+#### “神州明见”后台使用了动态的防止网络封锁的技术，具良好的抗封锁能力，这在多年的反馈中也得到了验证。目前是世界上仅有的几种，能够有效突破网络封锁的工具之一。
 
-### 截至2020年7月20日，通过突破网络封锁的方法，中国大陆已有近4亿人，在海外大纪元网站发表退出中共党、团、队的声明。
+#### 截至2020年7月20日，通过突破网络封锁的方法，中国大陆已有近4亿人，在海外大纪元网站发表退出中共党、团、队的声明。
 
-### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
+#### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
 
 ## 二、“神州明见”程序下载
 ### 目前最新的版本在这里（20190106）（请翻墙访问）：
-### 1、SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
-### https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
+#### 1、SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
+https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
 
-### 最新改包名测试版下载网址：
-### http://www.szzd.org/FYMXJ
-### (此网址需要翻墙下载)
+#### 最新改包名测试版下载网址：
+http://www.szzd.org/FYMXJ
+(此网址需要翻墙下载)
   
-### 2、SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
-### https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk
+#### 2、SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
+https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk
 
-### 最新改包名测试版下载网址：
-### http://www.szzd.org/CLZDc
-### (此网址需要翻墙下载)
+#### 最新改包名测试版下载网址：
+http://www.szzd.org/CLZDc
+(此网址需要翻墙下载)
 
-### 3、SzzdOgate WEB5.0 （html WEB网页版，下载方法见下方介绍）(桌机对着此网址右键下载。手机对着连结长按，下载连结)
-### https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
+#### 3、SzzdOgate WEB5.0 （html WEB网页版，下载方法见下方介绍）(桌机对着此网址右键下载。手机对着连结长按，下载连结)
+https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
 
 
 ![N|Solid](https://camo.githubusercontent.com/407103a4313c90bf549ef0cdb7e2ba363c3b4c51/687474703a2f2f7777772e737a7a642e6f72672f762e7068703f636f64653d3833393136623966353831363435383334393837323761623564353264393634336539666331343831653631666437626531336532613830646136346665376232363133646536636638656535336431626664383736653362313734373963323463343263636630613136353030373030613938)
@@ -211,15 +211,15 @@ BCA69EFEDDFF35E0AC796ED16AF38F3FB041C4297B7F18CFCD1F6A66ED415FD426E37BCE1F61BCEE
 #### ■ 需要安装Java的JRE，程序会提示，事先装好最好。
 
 #### 下载地址：
-#### https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-#### （1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
-#### （2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
-#### 64位或32位的系统，根据实际情况下载安装。
-#### 切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
+https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+（1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
+（2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
+64位或32位的系统，根据实际情况下载安装。
+切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
 
 #### ■ 需要安装NetFrameWork4.5.2
 #### 下载地址：
-#### https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
+https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
 #### 5、“包名修改器”使用方法
 #### ■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)

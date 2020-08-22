@@ -232,15 +232,15 @@ BCA69EFEDDFF35E0AC796ED16AF38F3FB041C4297B7F18CFCD1F6A66ED415FD426E37BCE1F61BCEE
 
 #### 6、“包名修改器”其他注意事项
 #### ■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
-#### keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
+keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
 
-#### 密码需要是1qaz2wsx
+密码需要是1qaz2wsx
 
-#### 如果密码和上面不同，改包过程中，App签名时会失败。
+如果密码和上面不同，改包过程中，App签名时会失败。
 
-#### 虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
+虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
 
-#### 注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可以的。
+注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可以的。
 
 #### ■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
 
@@ -248,35 +248,36 @@ BCA69EFEDDFF35E0AC796ED16AF38F3FB041C4297B7F18CFCD1F6A66ED415FD426E37BCE1F61BCEE
 
 #### 更详细的使用方法请参照天地行论坛。
 
-#### （二）二维码小助手
+### （二）二维码小助手
 #### 1、“二维码小助手”下载地址
 #### 2020年6月1.3版本
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Release-2020062702.zip.txt
 
-#### 下载后修改文件扩展名，去掉文件名后面的“.txt”。
+下载后修改文件扩展名，去掉文件名后面的“.txt”。
 #### 2、“二维码小助手”SHA512校验码
 4CE662A4BA27B2800A2A698E0B72088A112881EFC77B3DCC0350D087D7F5F927369B6F5B2CF500E2EE63B849C5BA66C9A6EBE259F3500B3555703B80057C7AC9
 #### 3、“二维码小助手”程序功能
-#### 二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
+二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
 
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 六、其它突破网络封锁的工具推荐 
 ### “网门”突破网络封锁工具
 #### 1、“网门”介绍
-### “网门”是另一款有效的突破网络封锁工具之一。有安卓手机版和Windows电脑版，2个版本。
+ “网门”是另一款有效的突破网络封锁工具之一。有安卓手机版和Windows电脑版，2个版本。
 #### 2、“网门”下载地址
 #### ■ 安卓手机版下载网址：
-#### https://x.co/ogatea
+https://x.co/ogatea
 
 #### ■ Windows电脑版下载网址：
-#### https://x.co/ogatew
+https://x.co/ogatew
+
 #### 3、SHA512校验码
 
-### “网门”安卓手机版
+#### “网门”安卓手机版
 B1E185D185ACA4CDD31F4A48A886A2E27E71E7A24E364A0163B4388CF9E9D18B254B84F3D8E602442BBAC5334195296D5A5735C840E7C4D3BBCA1D7C00B9DFDC  oGatea.apk
 
-### “网门”Windows电脑版
+#### “网门”Windows电脑版
 3A16ACE08F25E3A59B2E96B4E0A39B7D975D45036C4B1D6B28BB86CA3C90025AD5992BCDDE5894807304F1255D645BF9DCE45006242C459CF3193AAA63069C99  oGate.exe
 
 #### 4、“网门”使用范围

@@ -175,6 +175,9 @@ TV版直播节目单位置跟时间同步显示。
 ■ 测试反馈：TV版适合4.1+的Android智能电视和机顶盒。某地联通、电信、移动网络都效果不错，这几天中国频道打不开，其他还可以，播放也流畅，机顶盒，安卓4.4，5.1.，6.0系统的，均播放流畅，连续看几个小时也不卡。
 TCL 55C2US 电视 安卓版本是：6.0.1，测试播放成功。微鲸的55寸的电视也有成功的一个型号。
 已经在多个机顶盒型号，包括先科M11，V8，先科Q7，华为M321上都成功使用了。4.42版本的中国移动机顶盒直播、音频、视频全部播放成功。中国移动线路，机顶盒迪优美特X6II 八核CPU【4G+32G】安装成功。
+
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+
 ## 五、其它“神州明见”小工具推荐 
 ### （一）专用的包名修改器 RepackageTool
 #### 1、“包名修改器”下载地址
@@ -255,6 +258,9 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E4%BA%8C%E7%BB
 4CE662A4BA27B2800A2A698E0B72088A112881EFC77B3DCC0350D087D7F5F927369B6F5B2CF500E2EE63B849C5BA66C9A6EBE259F3500B3555703B80057C7AC9
 ### 3、“二维码小助手”程序功能
 ### 二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
+
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+
 ## 六、其它突破网络封锁的工具推荐 
 ### “网门”突破网络封锁工具
 ### 1、“网门”介绍

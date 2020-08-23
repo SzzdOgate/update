@@ -51,6 +51,7 @@ http://www.szzd.org/CLZDc
 
 #### 3、SzzdOgate WEB5.0
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
+
 （html WEB网页版，下载方法见下方介绍:1.桌机对着此网址右键下载。2.手机对着连结长按，下载连结。)
 
 ![N|Solid](https://camo.githubusercontent.com/407103a4313c90bf549ef0cdb7e2ba363c3b4c51/687474703a2f2f7777772e737a7a642e6f72672f762e7068703f636f64653d3833393136623966353831363435383334393837323761623564353264393634336539666331343831653631666437626531336532613830646136346665376232363133646536636638656535336431626664383736653362313734373963323463343263636630613136353030373030613938)
@@ -126,7 +127,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json<p>
 ## 五、其它“神州明见”小工具推荐 
 ### （一）二维码小助手
 #### 1、“二维码小助手”下载地址
-#### 2020年8月2.1版本
+2020年8月2.1版本
 https://github.com/SzzdOgate/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Qrcode2.1_20200819.zip.txt
 
 下载后修改文件扩展名，去掉文件名后面的“.txt”。
@@ -137,7 +138,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%
 
 ### （二）专用的包名修改器 RepackageTool
 #### 1、“包名修改器”下载地址
-#### RepackageTool【2020-06】
+RepackageTool【2020-06】
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90%8D%E4%BF%AE%E6%94%B9%E5%99%A8/ApkRepackager.zip 
 #### 2、“包名修改器”程序功能
 

@@ -161,9 +161,9 @@ https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.
 
 （2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
 
-     64位或32位的系统，根据实际情况下载安装。
+ 64位或32位的系统，根据实际情况下载安装。
  
-     切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
+ 切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
 
  ■ 需要安装NetFrameWork4.5.2
  下载地址：

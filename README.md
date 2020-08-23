@@ -161,9 +161,9 @@ https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.
 
 （2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
 
- 64位或32位的系统，根据实际情况下载安装。
+     64位或32位的系统，根据实际情况下载安装。
  
- 切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
+     切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
 
  ■ 需要安装NetFrameWork4.5.2
  下载地址：
@@ -181,21 +181,21 @@ https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 #### 5.“包名修改器”其他注意事项
 ■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
 
- keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
+  keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
 
- 密码需要是1qaz2wsx
+  密码需要是1qaz2wsx
 
- 如果密码和上面不同，改包过程中，App签名时会失败。
+  如果密码和上面不同，改包过程中，App签名时会失败。
 
- 虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
+  虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
 
- 注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可以的。
+  注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可 以的。
 
 ■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
 
 ■ 有时中文路径有可能导致出错，如果放在网络映射的磁盘中执行，也可能路径出错。如果出错，请把文件夹改成英文名，一般放在C盘或D盘执行。
 
- 更详细的使用方法请参照天地行论坛。
+  更详细的使用方法请参照天地行论坛。
 
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 

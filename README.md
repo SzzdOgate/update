@@ -49,9 +49,9 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk
 http://www.szzd.org/CLZDc
 (此网址需要翻墙下载)
 
-#### 3、SzzdOgate WEB5.0 （html WEB网页版，下载方法见下方介绍）(桌机对着此网址右键下载。手机对着连结长按，下载连结)
+#### 3、SzzdOgate WEB5.0
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html
-
+（html WEB网页版，下载方法见下方介绍:1.桌机对着此网址右键下载。2.手机对着连结长按，下载连结。)
 
 ![N|Solid](https://camo.githubusercontent.com/407103a4313c90bf549ef0cdb7e2ba363c3b4c51/687474703a2f2f7777772e737a7a642e6f72672f762e7068703f636f64653d3833393136623966353831363435383334393837323761623564353264393634336539666331343831653631666437626531336532613830646136346665376232363133646536636638656535336431626664383736653362313734373963323463343263636630613136353030373030613938)
 
@@ -149,14 +149,14 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90
 
 #### 3、使用“包名修改器”需要做的准备
 
-#### ■ 使用环境：Windows的电脑或平板。
+■ 使用环境：Windows的电脑或平板。
 
-#### ■ 需要安装Java的JRE，程序会提示，事先装好最好。
+■ 需要安装Java的JRE，程序会提示，事先装好最好。
 
 #### 下载地址：
 https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-#### （1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
-#### （2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
+（1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
+（2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
  64位或32位的系统，根据实际情况下载安装。
  切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
 
@@ -165,16 +165,16 @@ https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.
 https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
 #### 4、“包名修改器”使用方法
-#### ■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)
+■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)
 
-#### ■ 在解压缩后的目录中中执行ApkRepackager.exe程序
+■ 在解压缩后的目录中中执行ApkRepackager.exe程序
 
-#### ■ 点击程序主界面右下角的按钮开始改包名，等待约1分钟
+■ 点击程序主界面右下角的按钮开始改包名，等待约1分钟
 
-#### ■ 改包名完成后，可在解压缩后的目录中找到已经修改包名的新APP程序(如果修改包名失败，可从程序主界面的log查看原因，可把log贴到论坛上便于修正)
+■ 改包名完成后，可在解压缩后的目录中找到已经修改包名的新APP程序(如果修改包名失败，可从程序主界面的log查看原因，可把log贴到论坛上便于修正)
 
 #### 5、“包名修改器”其他注意事项
-#### ■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
+■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
  keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
 
  密码需要是1qaz2wsx
@@ -185,9 +185,9 @@ https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
  注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可以的。
 
-#### ■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
+■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
 
-#### ■ 有时中文路径有可能导致出错，如果放在网络映射的磁盘中执行，也可能路径出错。如果出错，请把文件夹改成英文名，一般放在C盘或D盘执行。
+■ 有时中文路径有可能导致出错，如果放在网络映射的磁盘中执行，也可能路径出错。如果出错，请把文件夹改成英文名，一般放在C盘或D盘执行。
 
  更详细的使用方法请参照天地行论坛。
 

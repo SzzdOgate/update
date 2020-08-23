@@ -110,156 +110,84 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.
 
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
-## 四、“神州明见”SHA512校验及更新说明 
-#### 1、SHA512校验码
-“神州明见”安卓手机版
-EC303209133C15D35C2C0B7DF3202EE659DC5531BB41C706C7AF53FEB32EE8CB18151C5F7700543FE0BF86F293AC22E90F529D4B6A4C6C768BC0A03930599FFD
+## 四、“神州明见”更新说明 
 
-“神州明见”电视机顶盒版
-E0B2AAA1C64F1FAD36E9BF9F9895E8F1864B7FADB2C8232E026A38C61076B92B81003902561889324F1F3DCEE60D719A46AFC899F7F11006AB59E42966235152
-#### 2、更新说明
-所有版本都可以在这里查到：
-https://github.com/SzzdOgate/update/blob/master/extras/
+### 所有版本都可以在这里查到：
+https://github.com/SzzdOgate/update/blob/master/extras/<p>
 
-app最新更新说明：
-https://github.com/SzzdOgate/update/blob/master/extras/update.json
+### app最新更新说明：
+https://github.com/SzzdOgate/update/blob/master/extras/update.json<p>
 
-TV版：
-https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json
-
-■ SzzdOgate（3.9.2018090307）(2018-10-10)：
-1. 修正安全问题；
-2. 二维码功能加上检查功能，保证分享的二维码于当下是可以正常使用的；
-3. 修复已知BUG，完善程序。
-
-■ SzzdOgateTV（1.1.2018051901）(2018-5-19)：
-1. 增强突破封锁能力；
-2. 完善程序自动升级功能；
-3. 修复已知BUG，完善程序。
-#### 3、SzzdOgate、SzzdOgateTV更新历史
-
-■（2018032501）：
-优化翻墙功能； 
-修复播放问题。 
-
-■（2018032201）： 
-适配程序自动更新功能至Android7和8；
-优化程序，修复小问题。 
-
-■（2018-3-10)： 
-修复SSL错误导致的安卓4.4以及以下版本不能下载更新程序的问题。 
-
-■（2018-3-2)：
-优化程序，修复BUG。
-
-■ TV版： 
-已同步更新，并新增自动更新功能。 
-
-■（2018022801）： 
-优化通道管理，更持续的翻墙能力；
-修改或增添了TV版二维码；
-其它等。
-
-■（2018022601）： 
-添加了直播节目当前频道和分辨率的记忆； 
-直播界面，是TV的情况下，点击（即：按下遥控器中间的大的圆的确认按钮）频道则播放此频道对应的分辨率最高的节目；
-更新video.json的结构为最新的状态，对程序对应部分的显示界面也做了相应调整，TV版音频改为带图片的了;
-TV版直播节目单位置跟时间同步显示。 
-
-■（2018022201）：  
-修复个别情况下存在的异常；
-对无效源（如真相视音频的节目）的情况下使用的通道進行了优化和控制；
-其它小的更新。
-
-■（2018020209）： 
-更新了程序，解决测试的一款5.1.1机顶盒运行闪退问题。相应整体做了更新。
-
-■ 测试反馈：TV版适合4.1+的Android智能电视和机顶盒。某地联通、电信、移动网络都效果不错，这几天中国频道打不开，其他还可以，播放也流畅，机顶盒，安卓4.4，5.1.，6.0系统的，均播放流畅，连续看几个小时也不卡。
-TCL 55C2US 电视 安卓版本是：6.0.1，测试播放成功。微鲸的55寸的电视也有成功的一个型号。
-已经在多个机顶盒型号，包括先科M11，V8，先科Q7，华为M321上都成功使用了。4.42版本的中国移动机顶盒直播、音频、视频全部播放成功。中国移动线路，机顶盒迪优美特X6II 八核CPU【4G+32G】安装成功。
+### TV版：
+https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json<p>
 
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 五、其它“神州明见”小工具推荐 
-### （一）专用的包名修改器 RepackageTool
-#### 1、“包名修改器”下载地址
-RepackageTool【2020-06】
+### （一）二维码小助手
+### 1、“二维码小助手”下载地址
+### 2020年8月2.1版本
+https://github.com/SzzdOgate/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Qrcode2.1_20200819.zip.txt
+### 下载后修改文件扩展名，去掉文件名后面的“.txt”。
+### 2、“二维码小助手”程序功能
+### 二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
+
+
+### （二）专用的包名修改器 RepackageTool
+### 1、“包名修改器”下载地址
+### RepackageTool【2020-06】
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90%8D%E4%BF%AE%E6%94%B9%E5%99%A8/ApkRepackager.zip 
-#### 2、“包名修改器”SHA512校验码 
-RepackageTool.zip压缩包内文件的SHA512校验值：
-0B5FDD99D0EB50B2CCA79F0D2F9493583BC7ED58B22C2C91EE49E6EF65471D97E611B3F989989C0A6CA5B525DC9BC317970A7E77FCD24126DEEAC9FEA491FB87  ApkRepackager.exe
+### 2、“包名修改器”程序功能
 
-E07C0594B52D584141735888314C604A109FABDE55B6252CEA8904CE04349934EA8F238A728F26B9847904052E2C3D85D1899196FF23226068AB5BD29948DF01  apktool.bat
-
-042F2CF08393CE556890D87401489BB89684CA8BEA1B8708F7FCDE075B45BD0A3C038874DEAA75627428AEF886619CE86EB330A412E5193ADB5BD2050784C182  apktool.jar
-
-72AC447D005307A90C2A52494B6D77A0C0104D10B45714B6879C0887E7448F9BFDE2AA36D2C3BCE65A9A4711E6BA3724EA93B0B400E014810C3E9C909757BCF0  dictionary.txt
-
-354CF8FFF29AB3181E70554ABE67F88EF51E7085ECF6A08423C97DA7B60D1B6D1CDCA52DC629502AD7D5D2153F21F5F3EA4A0746A9D5ED6ACB9ADDCB5D98DB1C  test.keystore
-
-BCA69EFEDDFF35E0AC796ED16AF38F3FB041C4297B7F18CFCD1F6A66ED415FD426E37BCE1F61BCEE463C579609FA6906985EFDB5D003FAAF9406AEBECD6C4310  uber-apk-signer.jar
-
-#### 3、“包名修改器”程序功能
-
- 中共的封锁和洗脑不止体现在网络上，而是体现在各个角落，包括手机和电视机顶盒等硬件设施。所以大陆出厂的手机或电视机顶盒，可能存在无法安装“神州明见”的情况。“包名修改器”是解决这种情况的一个有效方法。
+中共的封锁和洗脑不止体现在网络上，而是体现在各个角落，包括手机和电视机顶盒等硬件设施。所以大陆出厂的手机或电视机顶盒，可能存在无法安装“神州明见”的情况。“包名修改器”是解决这种情况的一个有效方法。
 
 主要配套SzzdOgateTV（神州明见电视版）使用，考虑使用安全性以及不被中共邪党控制的系统删除，修改SzzdOgateTV包名及程序名称来解决这个问题是一个有效的方法。
 
 此程序也适用于SzzdOgate（神州明见手机版）等程序的包名修改，但不适合无界一点通等破网工具的修改。
 
-#### 4、使用“包名修改器”需要做的准备
- ■ 使用环境：Windows的电脑或平板。
+### 3、使用“包名修改器”需要做的准备
 
- ■ 需要安装Java的JRE，程序会提示，事先装好最好。
+#### ■ 使用环境：Windows的电脑或平板。
 
-下载地址：
+#### ■ 需要安装Java的JRE，程序会提示，事先装好最好。
+
+#### 下载地址：
 https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-（1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
-（2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
-64位或32位的系统，根据实际情况下载安装。
-切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
+#### （1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
+#### （2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
+ 64位或32位的系统，根据实际情况下载安装。
+ 切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
 
- ■ 需要安装NetFrameWork4.5.2
-下载地址：
+#### ■ 需要安装NetFrameWork4.5.2
+#### 下载地址：
 https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
-#### 5、“包名修改器”使用方法
- ■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)
+### 4、“包名修改器”使用方法
+#### ■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)
 
- ■ 在解压缩后的目录中中执行ApkRepackager.exe程序
+#### ■ 在解压缩后的目录中中执行ApkRepackager.exe程序
 
- ■ 点击程序主界面右下角的按钮开始改包名，等待约1分钟
+#### ■ 点击程序主界面右下角的按钮开始改包名，等待约1分钟
 
- ■ 改包名完成后，可在解压缩后的目录中找到已经修改包名的新APP程序(如果修改包名失败，可从程序主界面的log查看原因，可把log贴到论坛上便于修正)
+#### ■ 改包名完成后，可在解压缩后的目录中找到已经修改包名的新APP程序(如果修改包名失败，可从程序主界面的log查看原因，可把log贴到论坛上便于修正)
 
-#### 6、“包名修改器”其他注意事项
- ■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
-keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
+### 5、“包名修改器”其他注意事项
+#### ■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
+ keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
 
-密码需要是1qaz2wsx
+ 密码需要是1qaz2wsx
 
-如果密码和上面不同，改包过程中，App签名时会失败。
+ 如果密码和上面不同，改包过程中，App签名时会失败。
 
-虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
+ 虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
 
-注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可以的。
+ 注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可以的。
 
- ■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
+#### ■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
 
- ■ 有时中文路径有可能导致出错，如果放在网络映射的磁盘中执行，也可能路径出错。如果出错，请把文件夹改成英文名，一般放在C盘或D盘执行。
+#### ■ 有时中文路径有可能导致出错，如果放在网络映射的磁盘中执行，也可能路径出错。如果出错，请把文件夹改成英文名，一般放在C盘或D盘执行。
 
-#### 更详细的使用方法请参照天地行论坛。
-
-### （二）二维码小助手
-#### 1、“二维码小助手”下载地址
-#### 2020年6月1.3版本
-https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Release-2020062702.zip.txt
-
-下载后修改文件扩展名，去掉文件名后面的“.txt”。
-#### 2、“二维码小助手”SHA512校验码
-4CE662A4BA27B2800A2A698E0B72088A112881EFC77B3DCC0350D087D7F5F927369B6F5B2CF500E2EE63B849C5BA66C9A6EBE259F3500B3555703B80057C7AC9
-#### 3、“二维码小助手”程序功能
-二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
+ 更详细的使用方法请参照天地行论坛。
 
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 

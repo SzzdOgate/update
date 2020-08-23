@@ -125,19 +125,19 @@ https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json<p>
 
 ## 五、其它“神州明见”小工具推荐 
 ### （一）二维码小助手
-### 1、“二维码小助手”下载地址
-### 2020年8月2.1版本
+#### 1、“二维码小助手”下载地址
+#### 2020年8月2.1版本
 https://github.com/SzzdOgate/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Qrcode2.1_20200819.zip.txt
-### 下载后修改文件扩展名，去掉文件名后面的“.txt”。
-### 2、“二维码小助手”程序功能
-### 二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
+下载后修改文件扩展名，去掉文件名后面的“.txt”。
+#### 2、“二维码小助手”程序功能
+二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
 
 
 ### （二）专用的包名修改器 RepackageTool
-### 1、“包名修改器”下载地址
-### RepackageTool【2020-06】
+#### 1、“包名修改器”下载地址
+#### RepackageTool【2020-06】
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90%8D%E4%BF%AE%E6%94%B9%E5%99%A8/ApkRepackager.zip 
-### 2、“包名修改器”程序功能
+#### 2、“包名修改器”程序功能
 
 中共的封锁和洗脑不止体现在网络上，而是体现在各个角落，包括手机和电视机顶盒等硬件设施。所以大陆出厂的手机或电视机顶盒，可能存在无法安装“神州明见”的情况。“包名修改器”是解决这种情况的一个有效方法。
 

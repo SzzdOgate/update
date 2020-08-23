@@ -128,7 +128,9 @@ https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json<p>
 #### 1、“二维码小助手”下载地址
 #### 2020年8月2.1版本
 https://github.com/SzzdOgate/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Qrcode2.1_20200819.zip.txt
+
 下载后修改文件扩展名，去掉文件名后面的“.txt”。
+
 #### 2、“二维码小助手”程序功能
 二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
 
@@ -145,7 +147,7 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90
 
 此程序也适用于SzzdOgate（神州明见手机版）等程序的包名修改，但不适合无界一点通等破网工具的修改。
 
-### 3、使用“包名修改器”需要做的准备
+#### 3、使用“包名修改器”需要做的准备
 
 #### ■ 使用环境：Windows的电脑或平板。
 
@@ -162,7 +164,7 @@ https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.
 #### 下载地址：
 https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
-### 4、“包名修改器”使用方法
+#### 4、“包名修改器”使用方法
 #### ■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)
 
 #### ■ 在解压缩后的目录中中执行ApkRepackager.exe程序
@@ -171,7 +173,7 @@ https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
 #### ■ 改包名完成后，可在解压缩后的目录中找到已经修改包名的新APP程序(如果修改包名失败，可从程序主界面的log查看原因，可把log贴到论坛上便于修正)
 
-### 5、“包名修改器”其他注意事项
+#### 5、“包名修改器”其他注意事项
 #### ■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
  keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
 

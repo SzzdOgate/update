@@ -38,14 +38,14 @@ https://git.io/szzd
 #### 1、SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
 
-#### 最新改包名测试版下载网址：
+最新改包名测试版下载网址：
 http://www.szzd.org/FYMXJ
 (此网址需要翻墙下载)
   
 #### 2、SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk
 
-#### 最新改包名测试版下载网址：
+最新改包名测试版下载网址：
 http://www.szzd.org/CLZDc
 (此网址需要翻墙下载)
 
@@ -153,15 +153,15 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90
 
 ■ 需要安装Java的JRE，程序会提示，事先装好最好。
 
-#### 下载地址：
+下载地址：
 https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 （1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
 （2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
  64位或32位的系统，根据实际情况下载安装。
  切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
 
-#### ■ 需要安装NetFrameWork4.5.2
-#### 下载地址：
+ ■ 需要安装NetFrameWork4.5.2
+ 下载地址：
 https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
 #### 4、“包名修改器”使用方法
@@ -175,6 +175,7 @@ https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
 
 #### 5、“包名修改器”其他注意事项
 ■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
+
  keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
 
  密码需要是1qaz2wsx

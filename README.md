@@ -132,7 +132,10 @@ https://github.com/SzzdOgate/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%
 
 下载后修改文件扩展名，去掉文件名后面的“.txt”。
 
-#### 2.“二维码小助手”程序功能
+#### 2.“二维码小助手”SHA512校验码
+4CE662A4BA27B2800A2A698E0B72088A112881EFC77B3DCC0350D087D7F5F927369B6F5B2CF500E2EE63B849C5BA66C9A6EBE259F3500B3555703B80057C7AC9
+
+#### 3.“二维码小助手”程序功能
 二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
 
 

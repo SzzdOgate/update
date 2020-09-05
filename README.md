@@ -38,8 +38,8 @@ https://git.io/szzd
 #### 1.SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
 
-最新改包名测试版下载网址：
-http://www.szzd.org/FYMXJ
+#### 最新改包名测试版下载网址： 
+http://www.szzd.org/FYMXJ 
 (此网址需要翻墙下载)
   
 #### 2.SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
@@ -127,16 +127,16 @@ https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json<p>
 ## 五、其它“神州明见”小工具推荐 
 ### （一）二维码小助手
 #### 1.“二维码小助手”下载地址
-2020年8月2.1版本
-https://github.com/SzzdOgate/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Qrcode2.1_20200819.zip.txt
-
+2020年9月2.2版本
+https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/Qrcode_v2.2_200901.zip.txt
 下载后修改文件扩展名，去掉文件名后面的“.txt”。
 
 #### 2.“二维码小助手”SHA512校验码
 4CE662A4BA27B2800A2A698E0B72088A112881EFC77B3DCC0350D087D7F5F927369B6F5B2CF500E2EE63B849C5BA66C9A6EBE259F3500B3555703B80057C7AC9
 
 #### 3.“二维码小助手”程序功能
-二维码小助手，可以生成最新的突破网络封锁的网址，并制作成二维码图片。
+
+二维码小助手，可以自动通过自由门或无界代理生成最新的突破网络封锁的网址，并制作成二维码图片，自带排序功能。可截图查看二维码中网址。后台维护中，目录管理可以多条同时删除。
 
 
 ### （二）专用的包名修改器 RepackageTool

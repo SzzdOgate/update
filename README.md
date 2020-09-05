@@ -129,6 +129,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json<p>
 #### 1.“二维码小助手”下载地址
 2020年9月2.2版本
 https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/Qrcode_v2.2_200901.zip.txt
+
 下载后修改文件扩展名，去掉文件名后面的“.txt”。
 
 #### 2.“二维码小助手”SHA512校验码

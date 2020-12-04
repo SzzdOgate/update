@@ -40,14 +40,14 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
 
 #### 最新改包名测试版下载网址： 
 http://www.szzd.org/FYMXJ 
-(此网址需要翻墙下载)
+(此网址需要翻墙下载) https://x.co/6nsVR
   
 #### 2.SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk
 
 #### 最新改包名测试版下载网址：
 http://www.szzd.org/CLZDc
-(此网址需要翻墙下载) https://x.co/6nsVR
+(此网址需要翻墙下载)
 
 #### 3.SzzdOgate WEB5.0
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/szzdogate_v5.0.html

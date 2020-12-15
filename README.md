@@ -127,13 +127,13 @@ https://github.com/SzzdOgate/update/blob/master/extras/updatetv.json<p>
 ## 五、其它“神州明见”小工具推荐 
 ### （一）二维码小助手
 #### 1.“二维码小助手”下载地址
-2020年11月2.4版本
-https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/QrCode_v2.4_20201128.zip.txt
+2020年12月2.4版本
+https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/QrCode_v2.4_20201215.zip.txt
 
 下载后修改文件扩展名，去掉文件名后面的“.txt”。
 
 #### 2.“二维码小助手”SHA512校验码
-F691BCAA9C57B04E2D9A42E698CEBCCAD91E2EA66412707A24C853F5936BF3B8198F8A4BB01729780EF0332CA35EFB1F2D3639B3FB219C385DE449756FC41AC9
+216DBD06F51A9B72E53BAC39289C407F460C9B392A05FBD1DA114B080D51888041F811B9A3006DB429DA02B678A4B823AB815151D7F685303D49F53122833181
 
 #### 3.“二维码小助手”程序功能
 

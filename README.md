@@ -160,8 +160,6 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/包名修改器
 https://github.com/SzzdOgate/update/blob/master/extras/包名修改器/改包教程-2021012601.pdf
 
 
-  更详细的使用方法请参照天地行论坛。
-
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 六、其它突破网络封锁的工具推荐 

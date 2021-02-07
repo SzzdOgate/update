@@ -145,7 +145,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/v2.4_read
 
 ### （二）专用的包名修改器 RepackageTool
 #### 1.“包名修改器”下载地址
-RepackageTool【2020-06】
+RepackageTool【2021-02】
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90%8D%E4%BF%AE%E6%94%B9%E5%99%A8/ApkRepackager.zip 
 #### 2.“包名修改器”程序功能
 

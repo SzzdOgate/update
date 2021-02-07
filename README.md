@@ -157,50 +157,8 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90
 
 #### 3.“包名修改器”教程下载地址
 
-■ 使用环境：Windows的电脑或平板。
+https://github.com/SzzdOgate/update/blob/master/extras/包名修改器/改包教程-2021012601.pdf
 
-■ 需要安装Java的JRE，程序会提示，事先装好最好。
-
-下载地址：
-https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-
-（1）在下载页面，请选择“Java SE Runtime Environment 8uXXX”最高（XXX的数值最大）的版本。
-
-（2）然后，点击其下“Accept License Agreement”单选按钮，最后根据您的操作系统选择安装文件。
-
- 64位或32位的系统，根据实际情况下载安装。
- 
- 切记：安装完后，从新启动电脑，Java的配置才会生效，我们的程序才能正常使用。
-
- ■ 需要安装NetFrameWork4.5.2
- 下载地址：
-https://www.microsoft.com/zh-CN/download/details.aspx?id=30653
-
-#### 4.“包名修改器”使用方法
-■ 在解压缩后的目录中，放入要改包名的APP(文件名必须是SzzdOgate.apk，或SzzdOgateTV.apk)
-
-■ 在解压缩后的目录中中执行ApkRepackager.exe程序
-
-■ 点击程序主界面右下角的按钮开始改包名，等待约1分钟
-
-■ 改包名完成后，可在解压缩后的目录中找到已经修改包名的新APP程序(如果修改包名失败，可从程序主界面的log查看原因，可把log贴到论坛上便于修正)
-
-#### 5.“包名修改器”其他注意事项
-■ test.keystore文件可自己生成（大家尽量使用不同的keystore），生成的指令如下（已验证可行）：
-
-  keytool -genkeypair -alias test1 -keyalg RSA -validity 11911 -keystore test.keystore
-
-  密码需要是1qaz2wsx
-
-  如果密码和上面不同，改包过程中，App签名时会失败。
-
-  虽然每个人按上面的指令生成的test.keystore的密码一样，但每个人出来的test.keystore其SHA512都不一样，每个人用自己产生的test.keystore，安全性会更好。
-
-  注：keytool没有所有的参数都试过，有的参数产生的test.keystore，最后程序做签名时还是会失败，用上面那个指令产生的test.keystore，验证过可以通过签名。当然用压缩包内已做好的test.keystore也是可 以的。
-
-■ 程序执行的时候需要有字典文件（解压缩后，在执行程序的同一个目录中可以找到内置的字典文件，字典文件名一定要是dictionary.txt），用于产生随机的包名，这个字典文件也可以自己修改。如果没有这个字典文件，程序执行的时候会出错、没反应。字典文件可以自己准备，就是文本文件，每个随机的英文字符串占一行。
-
-■ 有时中文路径有可能导致出错，如果放在网络映射的磁盘中执行，也可能路径出错。如果出错，请把文件夹改成英文名，一般放在C盘或D盘执行。
 
   更详细的使用方法请参照天地行论坛。
 

@@ -146,7 +146,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/v2.4_read
 ### （二）专用的包名修改器 RepackageTool
 #### 1.“包名修改器”下载地址
 RepackageTool【2021-02】
-https://raw.githubusercontent.com/SzzdOgate/update/master/extras/%E5%8C%85%E5%90%8D%E4%BF%AE%E6%94%B9%E5%99%A8/ApkRepackager.zip 
+https://raw.githubusercontent.com/SzzdOgate/update/master/extras/包名修改器/ApkRepackager.zip 
 #### 2.“包名修改器”程序功能
 
 中共的封锁和洗脑不止体现在网络上，而是体现在各个角落，包括手机和电视机顶盒等硬件设施。所以大陆出厂的手机或电视机顶盒，可能存在无法安装“神州明见”的情况。“包名修改器”是解决这种情况的一个有效方法。

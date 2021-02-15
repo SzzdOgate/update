@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/包名修改器
 
 #### 3.“包名修改器”教程下载地址
 
-https://github.com/SzzdOgate/update/blob/master/extras/包名修改器/改包教程-2021012601.pdf
+https://github.com/SzzdOgate/update/blob/master/extras/包名修改器/改包教程-2021020401.pdf
 
 
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)

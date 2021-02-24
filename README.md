@@ -139,9 +139,14 @@ AC68D6411449C28104C854E9DE84B132726C1CE8EC75FF99CE95BCA622D85007E3A33AC3B48B0802
 
 二维码小助手，可以自动通过自由门或无界代理生成最新的突破网络封锁的网址，并制作成二维码图片，自带排序功能。可截图查看二维码中网址。后台维护中，目录管理可以多条同时删除。2.3版增加“广传平台”单一的web5.0在线版，资源目录和泛域名的节点可以导入导出，离线批量制作。资源目录放在对应的目录中，可以一键导入的程序数据库中。
 
-#### 4.“二维码小助手”2.4版本教程下载地址
+#### 4.“二维码小助手”2.6版本教程下载地址
 
-https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/v2.4_readme.pdf
+https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/v2.6_readme.part1.rar
+https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/v2.6_readme.part2.rar
+https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/v2.6_readme.part3.rar
+
+三个档案都下载后, 打开 v2.6_readme.part1.rar 即会自动解压缩成一个 PDF
+
 
 ### （二）专用的包名修改器 RepackageTool
 #### 1.“包名修改器”下载地址

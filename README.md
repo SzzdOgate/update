@@ -13,7 +13,7 @@ https://git.io/szzd
 
 ■ 打开国外的浏览器如火狐、Google Chrome
 
-■ 在地址栏输入利用 Webcam 在线扫描二维码的网页，如：http://qrcodescan.in/
+■ 在地址栏输入利用 Webcam 在线扫描二维码的网页，如：https://qrcodescan.in/
 
 ■ 授予后摄像头权限，扫描二维码
 

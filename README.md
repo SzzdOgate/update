@@ -40,7 +40,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/szmj_v5.3.2021050801.apk
 #### sha512
 4d71375b266038b948333fbaf0e5eaa1f3d5d8b45278c8b45a053b900d613ccce72560246fb976a3210366b3da0d262096b94885244c93eebb7e8bcad0314de8
 
-#### 最新改包名测试版下载网址： 
+#### 安卓v5.3改包名测试版下载网址： 
 http://www.szzd.org/FYMXJ 
 (此网址需要翻墙下载) https://x.co/6nsVR
 
@@ -54,7 +54,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/szmjtv_v3.3.2021050801.ap
 #### sha512
 986e26fcbd54d9d70e17c0bf1d48add116424010193523731bd66c07b55e52ac9a89cb087b4dc9ff618966d2c273f9a6dff9a98e7f55cc06f3cc559c14791156
 
-#### 最新改包名测试版下载网址：
+#### 安卓TV版 v3.3改包名测试版下载网址：
 http://www.szzd.org/CLZDc
 (此网址需要翻墙下载) https://x.co/6nUhF
 

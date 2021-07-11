@@ -31,6 +31,8 @@ https://git.io/szzd
 
 #### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
 
+#### 视频介绍: http://www.szzd.org/v.php?code=896406104a414c801f8a80809ee789cf32754d0ad84805008907a6b9747aee529dd3dd291d973063e1cd5cb8cb6c00f8cc6a011efbdd7e1d2a59923d609b7b50c2056bcff1
+
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 二、“神州明见”程序下载
@@ -42,7 +44,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/szmj_v5.3.2021050801.apk
 
 #### 安卓v5.3改包名测试版下载网址： 
 http://www.szzd.org/FYMXJ 
-(此网址需要翻墙下载) https://x.co/6nsVR
+(此网址需要翻墙下载) 扫码下载(打不开可多扫几次，或隔一段时间再试）； http://www.szzd.org/v.php?code=b2474518b535a8b48b5cb1a59cb97c2b0ff08b5d4e4f1e44c7fd1626cecfabbc1fba4aaf0f162d3adff20c08b10dd8dec9e71e7146c57115f7af2843b79ee2dfd42ed6da15e39cb3f8484ba08ba5a4670255dbf1099ede017add1c3554f9350b4f0c547728e376f900edd74f3d6e67d6434d05cd8392c01e52ba89018f9933
 
 #### 经典稳定版 SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
 https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk

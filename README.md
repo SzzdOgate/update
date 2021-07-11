@@ -31,7 +31,7 @@ https://git.io/szzd
 
 #### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
 
-#### 视频介绍: http://www.szzd.org/v.php?code=896406104a414c801f8a80809ee789cf32754d0ad84805008907a6b9747aee529dd3dd291d973063e1cd5cb8cb6c00f8cc6a011efbdd7e1d2a59923d609b7b50c2056bcff1
+#### 视频介绍: https://camo.githubusercontent.com/896406104a414c801f8a80809ee789cf32754d0ad84805008907a6b9747aee529dd3dd291d973063e1cd5cb8cb6c00f8cc6a011efbdd7e1d2a59923d609b7b50c2056bcff1
 
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
